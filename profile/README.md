@@ -1,5 +1,7 @@
 ## 시흥시 지역 경제 활성화를 위한 소상공인 쿠폰 관리 앱
 
+꾸준한 쿠포닝을 통해 단골을 모아보세요!
+
 ### 사용자용
 
 [https://play.google.com/store/apps/details?id=kr.ac.coukingmama.userap](https://play.google.com/store/apps/details?id=kr.ac.coukingmama.userapp)
@@ -41,4 +43,4 @@
 
 | 최지미 | 김지윤 | 김승진 | 김민웅 |
 | --- | --- | --- | --- |
-| 사용자용 앱 | 사용자용 앱 | 사용 앱 | 백엔드 |
+| 사용자용 앱 | 사용자용 앱 | 사업자용 앱 | 백엔드 |
