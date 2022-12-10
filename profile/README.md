@@ -4,7 +4,7 @@
 
 ### 사용자용
 
-[https://play.google.com/store/apps/details?id=kr.ac.coukingmama.userap](https://play.google.com/store/apps/details?id=kr.ac.coukingmama.userapp)
+[https://play.google.com/store/apps/details?id=kr.ac.coukingmama.userapp](https://play.google.com/store/apps/details?id=kr.ac.coukingmama.userapp)
 
 ### 사업자용
 
